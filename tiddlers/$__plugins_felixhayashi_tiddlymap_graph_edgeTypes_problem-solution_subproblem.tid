@@ -1,0 +1,7 @@
+created: 20180314035519916
+description: A link from subproblem to parent-problem in problem-solution analysis graph.
+modified: 20180314035601001
+style: {"arrows":{"to":{"enabled":false}}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/problem-solution:subproblem
+type: text/vnd.tiddlywiki
+
