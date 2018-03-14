@@ -1,10 +1,12 @@
 created: 20180314045227076
-modified: 20180314045236850
+modified: 20180314055044247
 tags: template
 title: document-quote
 tmap.id: 27151cee-f66b-48a0-8587-48f968519ccf
 type: text/vnd.tiddlywiki
 
-!! {{!!title}}
-{{!!source}}
+!! <$link>{{!!title}}</$link>
+
 > <$transclude/>
+
+{{!!source}}
