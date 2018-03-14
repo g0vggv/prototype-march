@@ -1,6 +1,8 @@
 
 # Prototype in March, 2018
 
+See the mindmap [here](https://g0vggv.github.io/prototype-march/).
+
 ## Usage
 
 Install [TiddlyWiki](https://tiddlywiki.com/) with `npm i -g tiddlywiki`, and then
