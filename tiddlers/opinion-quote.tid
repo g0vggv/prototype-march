@@ -1,12 +1,15 @@
 created: 20180314042110220
-modified: 20180314055052866
+modified: 20180315043248899
 tags: template
 title: opinion-quote
 tmap.id: 615d1aa0-3d7d-4a25-92b6-aee783e8536f
 type: text/vnd.tiddlywiki
 
+\define source_link(url) <a href="$url$">Yo</a>
+
 !! <$link>{{!!title}}</$link>
 
 > <$transclude/>
 
+{{!!tags||$:/core/ui/ViewTemplate/tags}}
 {{!!source}}
