@@ -1,5 +1,5 @@
 created: 20180314035638346
-modified: 20180315043436460
+modified: 20180326072830715
 title: 缺乏基礎研發人材
 tmap.edges: {"10061a94-1831-4e19-87b1-9e33dc55eb86":{"to":"33c0840e-ebcf-4144-8cbb-9c71c919dfdc","type":"problem-solution:subproblem"}}
 tmap.id: bdd1331f-d8be-4f51-a0b3-47bf66914265
@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 
 ! Key Questions
 
-{{台灣人工智慧社團 - Kurt Bowyer 2018-01-22||opinion-quote}}
+{{【台灣人工智慧社團 - Kurt Bowyer 2018-01-22】最近已經看不到多少人對基礎演算法的研究，只在乎有多少的 GPU、多少的CPU，如何去提升某某應用的準確度，如何去做出很炫的應用，甚至是如何去用新名詞包裝舊觀念，目的只是為了籌募更多的資金。||opinion-quote}}
 
 {{風傳媒 - 〈160億計畫50億花在硬體，科技部AI計畫被批錢未花刀口〉||opinion-quote}}
 
