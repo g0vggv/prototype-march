@@ -11,3 +11,5 @@ Install [TiddlyWiki](https://tiddlywiki.com/) with `npm i -g tiddlywiki`, and th
 $ git clone https://github.com/g0vggv/prototype-march
 $ tiddlywiki prototype-march --server
 ```
+
+See [tiddly-data](https://github.com/g0vggv/tiddly-data) for pulling data from Trello board to TiddlyWiki.
